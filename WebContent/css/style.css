@@ -1,0 +1,15 @@
+.letra{
+  color: black;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.inputDescripcion{
+  width: 228px;
+  height: 50px;
+  size: 10;
+}
+
+.titulosize{
+  font-size: 30px;
+}

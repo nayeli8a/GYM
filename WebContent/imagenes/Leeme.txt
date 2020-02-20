@@ -1,0 +1,10 @@
+##Este archivo es solo para que pudiera subirlo a git
+En esta carpeta todas la imagenes deben ser con una nomenclatura
+
+
+los logos:	logo_nombre.png
+
+los banners: banner_numero.png
+
+los iconos: icono_numero.png
+
